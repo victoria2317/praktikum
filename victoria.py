@@ -1,0 +1,10 @@
+a = int(input("Masukkan nilai a: "))
+b = int(input("Masukkan nilai b: "))
+
+print("Jumlah a dan b =", a + b)
+print("Selisih b dengan a =", b - a)
+print("Hasil kali a dan b =", a * b)
+print("Sisa pembagian a dengan b =", a % b)
+print("Pembagian a dengan b =", a / b)
+print("Hasil log10(a) =", math.log10(a))
+print("a pangkat b =", a ** b) 
